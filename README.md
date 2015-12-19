@@ -1,4 +1,4 @@
-#以下のURLでこのgithubのホームページにアクセスできる
+#このgithubのホームページにアクセスできるURL
 yasuakiohama.github.io/redirect
 
 #短縮URL https://goo.gl/
@@ -6,7 +6,7 @@ http://goo.gl/4KakGZ
 goo.gl/4KakGZ  
 
 #QRコード
-http://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=H&chl=https://goo.gl/4KakGZ
+![QRコード](http://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=H&chl=https://goo.gl/4KakGZ "QRコード")
 
 #リダイレクト先
 iOS:      https://itunes.apple.com/  
