@@ -1,5 +1,5 @@
 #このgithubのホームページにアクセスできるURL
-yasuakiohama.github.io/redirect
+http://yasuakiohama.github.io/redirect
 
 #短縮URL https://goo.gl/
 http://goo.gl/4KakGZ  
@@ -23,7 +23,8 @@ other:    http://www.desunoya.sakura.ne.jp/product/panda/
     git commit -a -m "First pages commit"
     git push origin gh-pages
 
-    http://yourself-account.github.io/yourRepositoryアクセスするだけ。
+    ここにアクセスするとOS別にリダイレクトして他のURLに移動できる
+    http://yourself-account.github.io/yourRepository
 
 #参考
 [Githubを使って3分でHPを公開する](http://qiita.com/budougumi0617/items/221bb946d1c90d6769e9)  
